@@ -1,0 +1,22 @@
+{
+	"minecraft": {
+		"minecraft_server_status": "Статус сервера Minecraft",
+		"port": "порт (необязательно)",
+		"check": "проверять",
+		"online": "онлайн",
+		"players": "игроки",
+		"version": "версия",
+		"no_info": "Информация отсутствует.",
+		"back": "Вернуться к поиску",
+		"ip": "IP-адрес",
+		"hostname_ip": "Имя хоста / IP"
+	},
+	"homepage": {
+		"status": "Статус",
+		"contact": "Контакт",
+		"blog": "Блог",
+		"tools": "Инструменты",
+		"minecraft": "Статус сервера Minecraft",
+		"online": "онлайн"
+	}
+}

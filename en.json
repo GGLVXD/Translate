@@ -1,0 +1,22 @@
+{
+	"homepage": {
+		"status": "Status",
+		"contact": "Contact",
+		"blog": "Blog",
+		"tools": "Tools",
+		"minecraft": "Minecraft server status",
+		"online": "online"
+	},
+	"minecraft": {
+		"minecraft_server_status": "Minecraft server status",
+		"port": "port (optional)",
+		"check": "check",
+		"online": "online",
+		"players": "players",
+		"version": "version",
+		"no_info": "No information available.",
+		"back": "Back to search",
+		"ip": "ip",
+		"hostname_ip": "Hostname / IP"
+	}
+}

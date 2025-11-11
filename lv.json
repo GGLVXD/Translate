@@ -1,0 +1,22 @@
+{
+	"homepage": {
+		"status": "Statuss",
+		"contact": "Kontaktinformācija",
+		"blog": "Blogs",
+		"tools": "Instrumenti",
+		"minecraft": "Minecraft servera statuss",
+		"online": "tiešsaistē"
+	},
+	"minecraft": {
+		"minecraft_server_status": "Minecraft servera statuss",
+		"port": "ports (pēc izvēles)",
+		"check": "pārbaude",
+		"online": "tiešsaistē",
+		"players": "spēlētāji",
+		"version": "versija",
+		"no_info": "Informācija nav pieejama.",
+		"back": "Atpakaļ uz meklēšanu",
+		"ip": "IP adrese",
+		"hostname_ip": "Resursdatora nosaukums/IP"
+	}
+}

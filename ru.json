@@ -18,5 +18,12 @@
 		"tools": "Инструменты",
 		"minecraft": "Статус сервера Minecraft",
 		"online": "онлайн"
+	},
+	"contact": {
+		"contact": "Контакт",
+		"description": "Свяжитесь с администратором GGLVXD.NET по электронной почте, Discord или Telegram.",
+		"email": "Электронная почта",
+		"discord": "Дискорд",
+		"telegram": "Телеграмма"
 	}
 }

@@ -18,5 +18,12 @@
 		"back": "Atpakaļ uz meklēšanu",
 		"ip": "IP adrese",
 		"hostname_ip": "Resursdatora nosaukums/IP"
+	},
+	"contact": {
+		"contact": "Kontaktinformācija",
+		"description": "Sazinieties ar GGLVXD.NET administratoru pa e-pastu, Discord vai Telegram.",
+		"email": "E-pasts",
+		"discord": "Discorda",
+		"telegram": "Telegramma"
 	}
 }

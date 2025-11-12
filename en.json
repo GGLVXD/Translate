@@ -18,5 +18,12 @@
 		"back": "Back to search",
 		"ip": "ip",
 		"hostname_ip": "Hostname / IP"
+	},
+	"contact": {
+		"contact": "Contact",
+		"email": "Email",
+		"discord": "Discord",
+		"telegram": "Telegram",
+		"description": "Contact GGLVXD.NET administrator through email, discord or telegram."
 	}
 }

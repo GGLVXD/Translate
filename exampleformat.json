@@ -1,7 +1,26 @@
 {
-	"status": "status",
-	"greeting": {
-		"morning": "Good morning"
-	},
-	"tools": "tools2"
+  "contact.contact": "",
+  "contact.description": "",
+  "contact.discord": "",
+  "contact.email": "",
+  "contact.telegram": "",
+  "greeting.morning": "Good morning",
+  "homepage.blog": "",
+  "homepage.contact": "",
+  "homepage.minecraft": "",
+  "homepage.online": "",
+  "homepage.status": "",
+  "homepage.tools": "",
+  "minecraft.back": "",
+  "minecraft.check": "",
+  "minecraft.hostname_ip": "",
+  "minecraft.ip": "",
+  "minecraft.minecraft_server_status": "",
+  "minecraft.no_info": "",
+  "minecraft.online": "",
+  "minecraft.players": "",
+  "minecraft.port": "",
+  "minecraft.version": "",
+  "status": "status",
+  "tools": "tools2"
 }

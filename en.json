@@ -1,29 +1,26 @@
 {
-	"homepage": {
-		"status": "Status",
-		"contact": "Contact",
-		"blog": "Blog",
-		"tools": "Tools",
-		"minecraft": "Minecraft server status",
-		"online": "online"
-	},
-	"minecraft": {
-		"minecraft_server_status": "Minecraft server status",
-		"port": "port (optional)",
-		"check": "check",
-		"online": "online",
-		"players": "players",
-		"version": "version",
-		"no_info": "No information available.",
-		"back": "Back to search",
-		"ip": "ip",
-		"hostname_ip": "Hostname / IP"
-	},
-	"contact": {
-		"contact": "Contact",
-		"email": "Email",
-		"discord": "Discord",
-		"telegram": "Telegram",
-		"description": "Contact GGLVXD.NET administrator through email, discord or telegram."
-	}
+  "contact.contact": "Contact",
+  "contact.description": "Contact GGLVXD.NET administrator through email, discord or telegram.",
+  "contact.discord": "Discord",
+  "contact.email": "Email",
+  "contact.telegram": "Telegram",
+  "greeting.morning": "Good morning",
+  "homepage.blog": "Blog",
+  "homepage.contact": "Contact",
+  "homepage.minecraft": "Minecraft server status",
+  "homepage.online": "online",
+  "homepage.status": "Status",
+  "homepage.tools": "Tools",
+  "minecraft.back": "Back to search",
+  "minecraft.check": "check",
+  "minecraft.hostname_ip": "Hostname / IP",
+  "minecraft.ip": "ip",
+  "minecraft.minecraft_server_status": "Minecraft server status",
+  "minecraft.no_info": "No information available.",
+  "minecraft.online": "online",
+  "minecraft.players": "players",
+  "minecraft.port": "port (optional)",
+  "minecraft.version": "version",
+  "status": "status",
+  "tools": "tools2"
 }

@@ -1,29 +1,26 @@
 {
-	"minecraft": {
-		"minecraft_server_status": "Статус сервера Minecraft",
-		"port": "порт (необязательно)",
-		"check": "проверять",
-		"online": "онлайн",
-		"players": "игроки",
-		"version": "версия",
-		"no_info": "Информация отсутствует.",
-		"back": "Вернуться к поиску",
-		"ip": "IP-адрес",
-		"hostname_ip": "Имя хоста / IP"
-	},
-	"homepage": {
-		"status": "Статус",
-		"contact": "Контакт",
-		"blog": "Блог",
-		"tools": "Инструменты",
-		"minecraft": "Статус сервера Minecraft",
-		"online": "онлайн"
-	},
-	"contact": {
-		"contact": "Контакт",
-		"description": "Свяжитесь с администратором GGLVXD.NET по электронной почте, Discord или Telegram.",
-		"email": "Электронная почта",
-		"discord": "Дискорд",
-		"telegram": "Телеграмма"
-	}
+  "contact.contact": "",
+  "contact.description": "",
+  "contact.discord": "",
+  "contact.email": "",
+  "contact.telegram": "",
+  "greeting.morning": "Доброе утро",
+  "homepage.blog": "Блог",
+  "homepage.contact": "Контакт",
+  "homepage.minecraft": "Статус сервера Minecraft",
+  "homepage.online": "онлайн",
+  "homepage.status": "Статус",
+  "homepage.tools": "Инструменты",
+  "minecraft.back": "Вернуться к поиску",
+  "minecraft.check": "проверять",
+  "minecraft.hostname_ip": "Имя хоста / IP",
+  "minecraft.ip": "IP-адрес",
+  "minecraft.minecraft_server_status": "Статус сервера Minecraft",
+  "minecraft.no_info": "Информация отсутствует.",
+  "minecraft.online": "онлайн",
+  "minecraft.players": "игроки",
+  "minecraft.port": "порт (необязательно)",
+  "minecraft.version": "версия",
+  "status": "статус",
+  "tools": "инструменты2"
 }

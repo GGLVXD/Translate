@@ -2,7 +2,6 @@ upload:
   files:
     - path: "{lang}.json"
       format: "single-language-json"
-      language-key: "en"
       options:
         - REPLACE_TRANSLATION_IF_FOUND 
 

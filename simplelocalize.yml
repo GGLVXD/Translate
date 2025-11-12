@@ -1,26 +1,10 @@
-pull-request:
-  title: "Update translations"
-  body: "This PR updates translations for the project."
-  labels:
-    - "translations"
-
 upload:
   files:
     - path: "en.json"
       format: "single-language-json"
       language-key: "en"
       options:
-        - REPLACE_TRANSLATION_IF_FOUND
-    - path: "ru.json"
-      format: "single-language-json"
-      language-key: "ru"
-      options:
-        - REPLACE_TRANSLATION_IF_FOUND
-    - path: "lv.json"
-      format: "single-language-json"
-      language-key: "lv"
-      options:
-        - REPLACE_TRANSLATION_IF_FOUND
+        - REPLACE_TRANSLATION_IF_FOUND 
 
 download:
   files:

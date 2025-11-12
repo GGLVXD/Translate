@@ -1,0 +1,38 @@
+name: Sync translations with SimpleLocalize
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  sync-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Upload translations to SimpleLocalize
+        uses: simplelocalize/simplelocalize-upload-action@v1
+        with:
+          api-key: ${{ secrets.SIMPLELOCALIZE_API_KEY }}
+          upload-format: single-language-json
+          upload-path: "*.json"
+          upload-options: REPLACE_TRANSLATION_IF_FOUND
+
+      - name: Download translations from SimpleLocalize
+        uses: simplelocalize/simplelocalize-download-action@v1
+        with:
+          api-key: ${{ secrets.SIMPLELOCALIZE_API_KEY }}
+          download-format: single-language-json
+          download-path: "./{lang}.json"
+
+      - name: Commit & Push updated translation files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.json
+          git commit -m "🔁 Update translations from SimpleLocalize" || echo "No changes to commit"
+          git push

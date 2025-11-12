@@ -1,6 +1,6 @@
 upload:
   files:
-    - path: "en.json"
+    - path: "{lang}.json"
       format: "single-language-json"
       language-key: "en"
       options:

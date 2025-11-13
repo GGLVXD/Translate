@@ -28,5 +28,11 @@
 		"email": "E-pasts",
 		"discord": "Discorda",
 		"telegram": "Telegramma"
+	},
+	"blog_dev": {
+		"title": "Blogs - GGLVXD.NET",
+		"description": "emuārs/blogs drīzumā būs pieejams!",
+		"h1": "Drīzumā",
+		"p": "Bloga sadaļa pašlaik tiek izstrādāta. Pārbaudiet vēlāk!"
 	}
 }

@@ -9,7 +9,9 @@
 		"no_info": "Информация отсутствует.",
 		"back": "Вернуться к поиску",
 		"ip": "IP-адрес",
-		"hostname_ip": "Имя хоста / IP"
+		"hostname_ip": "Имя хоста / IP",
+		"title": "Статус сервера Minecraft - GGLVXD.NET",
+		"description": "Проверьте статус серверов Minecraft Java и Bedrock."
 	},
 	"homepage": {
 		"status": "Статус",
@@ -17,7 +19,8 @@
 		"blog": "Блог",
 		"tools": "Инструменты",
 		"minecraft": "Статус сервера Minecraft",
-		"online": "онлайн"
+		"online": "онлайн",
+		"description": "Добро пожаловать на сайт моего портфолио/проектов"
 	},
 	"contact": {
 		"contact": "Контакт",

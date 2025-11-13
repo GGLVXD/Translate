@@ -5,7 +5,8 @@
 		"blog": "Blogs",
 		"tools": "Instrumenti",
 		"minecraft": "Minecraft servera statuss",
-		"online": "tiešsaistē"
+		"online": "tiešsaistē",
+		"description": "Laipni lūgti manā portfolio/projekta tīmekļa vietnē"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft servera statuss",
@@ -17,7 +18,9 @@
 		"no_info": "Informācija nav pieejama.",
 		"back": "Atpakaļ uz meklēšanu",
 		"ip": "IP adrese",
-		"hostname_ip": "Resursdatora nosaukums/IP"
+		"hostname_ip": "Resursdatora nosaukums/IP",
+		"title": "Minecraft servera statuss — GGLVXD.NET",
+		"description": "Pārbaudiet Minecraft Java un Bedrock servera statusu."
 	},
 	"contact": {
 		"contact": "Kontaktinformācija",

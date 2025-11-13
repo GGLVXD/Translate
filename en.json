@@ -5,7 +5,8 @@
 		"blog": "Blog",
 		"tools": "Tools",
 		"minecraft": "Minecraft server status",
-		"online": "online"
+		"online": "online",
+		"description": "Welcome to my portfolio/project website"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft server status",
@@ -17,7 +18,9 @@
 		"no_info": "No information available.",
 		"back": "Back to search",
 		"ip": "ip",
-		"hostname_ip": "Hostname / IP"
+		"hostname_ip": "Hostname / IP",
+		"title": "Minecraft Server Status - GGLVXD.NET",
+		"description": "Check Minecraft Java and Bedrock server status."
 	},
 	"contact": {
 		"contact": "Contact",

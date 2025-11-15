@@ -1,0 +1,39 @@
+{
+	"homepage": {
+		"status": "Estado",
+		"contact": "Contacto",
+		"blog": "Blog",
+		"tools": "Herramientas",
+		"minecraft": "Estado del servidor de Minecraft",
+		"online": "en línea",
+		"description": "Bienvenido a mi sitio web de portafolio/proyecto",
+		"title": "GGLVXD.NET"
+	},
+	"minecraft": {
+		"minecraft_server_status": "Estado del servidor de Minecraft",
+		"port": "puerto (opcional)",
+		"check": "comprobar",
+		"online": "en línea",
+		"players": "jugadores",
+		"version": "versión",
+		"no_info": "No hay información disponible.",
+		"back": "Volver a la búsqueda",
+		"ip": "ip",
+		"hostname_ip": "Nombre de host / IP",
+		"title": "Estado del Servidor de Minecraft - GGLVXD.NET",
+		"description": "Comprueba el estado del servidor Minecraft Java y Bedrock."
+	},
+	"contact": {
+		"contact": "Contacto",
+		"email": "Correo electrónico",
+		"discord": "Discord",
+		"telegram": "Telegram",
+		"description": "Contacta al administrador de GGLVXD.NET a través de correo, discord o telegram."
+	},
+	"blog_dev": {
+		"title": "Blog - GGLVXD.NET",
+		"description": "¡el blog está próximamente!",
+		"h1": "Próximamente",
+		"p": "La sección del blog está actualmente en desarrollo. ¡Vuelve más tarde!"
+	}
+}

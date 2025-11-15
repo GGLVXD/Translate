@@ -1,0 +1,39 @@
+{
+	"homepage": {
+		"status": "स्थिति",
+		"contact": "संपर्क",
+		"blog": "ब्लॉग",
+		"tools": "उपकरण",
+		"minecraft": "Minecraft सर्वर स्थिति",
+		"online": "ऑनलाइन",
+		"description": "मेरे पोर्टफ़ोलियो/प्रोजेक्ट वेबसाइट पर आपका स्वागत है",
+		"title": "GGLVXD.NET"
+	},
+	"minecraft": {
+		"minecraft_server_status": "Minecraft सर्वर स्थिति",
+		"port": "पोर्ट (वैकल्पिक)",
+		"check": "जाँचें",
+		"online": "ऑनलाइन",
+		"players": "खिलाड़ी",
+		"version": "संस्करण",
+		"no_info": "कोई जानकारी उपलब्ध नहीं है।",
+		"back": "खोज पर वापस जाएँ",
+		"ip": "आईपी",
+		"hostname_ip": "होस्टनाम / आईपी",
+		"title": "Minecraft सर्वर स्थिति - GGLVXD.NET",
+		"description": "Minecraft Java और Bedrock सर्वर की स्थिति जाँचें।"
+	},
+	"contact": {
+		"contact": "संपर्क",
+		"email": "ईमेल",
+		"discord": "Discord",
+		"telegram": "Telegram",
+		"description": "ईमेल, Discord या Telegram के माध्यम से GGLVXD.NET प्रशासक से संपर्क करें।"
+	},
+	"blog_dev": {
+		"title": "ब्लॉग - GGLVXD.NET",
+		"description": "ब्लॉग जल्द ही आ रहा है!",
+		"h1": "जल्द आ रहा है",
+		"p": "ब्लॉग सेक्शन वर्तमान में विकासाधीन है। बाद में फिर देखें!"
+	}
+}

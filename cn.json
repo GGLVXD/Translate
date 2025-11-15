@@ -1,0 +1,39 @@
+{
+	"homepage": {
+		"status": "状态",
+		"contact": "联系",
+		"blog": "博客",
+		"tools": "工具",
+		"minecraft": "Minecraft 服务器状态",
+		"online": "在线",
+		"description": "欢迎来到我的作品集/项目网站",
+		"title": "GGLVXD.NET"
+	},
+	"minecraft": {
+		"minecraft_server_status": "Minecraft 服务器状态",
+		"port": "端口（可选）",
+		"check": "检查",
+		"online": "在线",
+		"players": "玩家",
+		"version": "版本",
+		"no_info": "暂无信息。",
+		"back": "返回搜索",
+		"ip": "IP",
+		"hostname_ip": "主机名 / IP",
+		"title": "Minecraft 服务器状态 - GGLVXD.NET",
+		"description": "检查 Minecraft Java 和基岩版服务器状态。"
+	},
+	"contact": {
+		"contact": "联系",
+		"email": "电子邮件",
+		"discord": "Discord",
+		"telegram": "Telegram",
+		"description": "通过电子邮件、Discord 或 Telegram 联系 GGLVXD.NET 管理员。"
+	},
+	"blog_dev": {
+		"title": "博客 - GGLVXD.NET",
+		"description": "博客即将上线！",
+		"h1": "即将推出",
+		"p": "博客部分目前正在开发中，请稍后再来查看！"
+	}
+}

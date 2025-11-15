@@ -24,6 +24,7 @@
   "minecraft.ip": "IP adrese",
   "minecraft.minecraft_server_status": "Minecraft servera statuss",
   "minecraft.no_info": "Informācija nav pieejama.",
+  "minecraft.offline": "",
   "minecraft.online": "tiešsaistē",
   "minecraft.players": "spēlētāji",
   "minecraft.port": "ports (pēc izvēles)",

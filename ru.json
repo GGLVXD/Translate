@@ -24,6 +24,7 @@
   "minecraft.ip": "IP-адрес",
   "minecraft.minecraft_server_status": "Статус сервера Minecraft",
   "minecraft.no_info": "Информация отсутствует.",
+  "minecraft.offline": "",
   "minecraft.online": "онлайн",
   "minecraft.players": "игроки",
   "minecraft.port": "порт (необязательно)",

@@ -24,6 +24,7 @@
   "minecraft.ip": "ip",
   "minecraft.minecraft_server_status": "Minecraft server status",
   "minecraft.no_info": "No information available.",
+  "minecraft.offline": "offline",
   "minecraft.online": "online",
   "minecraft.players": "players",
   "minecraft.port": "port (optional)",

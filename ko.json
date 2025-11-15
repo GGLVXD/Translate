@@ -1,0 +1,40 @@
+{
+	"homepage": {
+		"status": "상태",
+		"contact": "연락처",
+		"blog": "블로그",
+		"tools": "도구",
+		"minecraft": "마인크래프트 서버 상태",
+		"online": "온라인",
+		"description": "내 포트폴리오/프로젝트 웹사이트에 오신 것을 환영합니다",
+		"title": "GGLVXD.NET"
+	},
+	"minecraft": {
+		"minecraft_server_status": "마인크래프트 서버 상태",
+		"port": "포트 (선택 사항)",
+		"check": "확인",
+		"online": "온라인",
+		"players": "플레이어",
+		"version": "버전",
+		"no_info": "정보가 없습니다.",
+		"back": "검색으로 돌아가기",
+		"ip": "IP",
+		"hostname_ip": "호스트명 / IP",
+		"title": "마인크래프트 서버 상태 - GGLVXD.NET",
+		"description": "마인크래프트 Java 및 Bedrock 서버 상태를 확인하세요.",
+		"offline": "오프라인"
+	},
+	"contact": {
+		"contact": "연락처",
+		"email": "이메일",
+		"discord": "디스코드",
+		"telegram": "텔레그램",
+		"description": "이메일, 디스코드 또는 텔레그램을 통해 GGLVXD.NET 관리자에게 연락하세요."
+	},
+	"blog_dev": {
+		"title": "블로그 - GGLVXD.NET",
+		"description": "블로그가 곧 제공됩니다!",
+		"h1": "곧 제공됩니다",
+		"p": "블로그 섹션은 현재 개발 중입니다. 나중에 다시 확인해주세요!"
+	}
+}

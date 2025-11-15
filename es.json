@@ -21,7 +21,8 @@
 		"ip": "ip",
 		"hostname_ip": "Nombre de host / IP",
 		"title": "Estado del Servidor de Minecraft - GGLVXD.NET",
-		"description": "Comprueba el estado del servidor Minecraft Java y Bedrock."
+		"description": "Comprueba el estado del servidor Minecraft Java y Bedrock.",
+		"offline": "desconectado"
 	},
 	"contact": {
 		"contact": "Contacto",

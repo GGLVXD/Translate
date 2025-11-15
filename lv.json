@@ -21,7 +21,8 @@
 		"ip": "IP adrese",
 		"hostname_ip": "Resursdatora nosaukums/IP",
 		"title": "Minecraft servera statuss — GGLVXD.NET",
-		"description": "Pārbaudiet Minecraft Java un Bedrock servera statusu."
+		"description": "Pārbaudiet Minecraft Java un Bedrock servera statusu.",
+		"offline": "bezsaistē"
 	},
 	"contact": {
 		"contact": "Kontaktinformācija",

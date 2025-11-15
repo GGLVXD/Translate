@@ -21,7 +21,8 @@
 		"ip": "IP",
 		"hostname_ip": "主机名 / IP",
 		"title": "Minecraft 服务器状态 - GGLVXD.NET",
-		"description": "检查 Minecraft Java 和基岩版服务器状态。"
+		"description": "检查 Minecraft Java 和基岩版服务器状态。",
+		"offline": "离线"
 	},
 	"contact": {
 		"contact": "联系",

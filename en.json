@@ -1,6 +1,6 @@
 {
 	"homepage": {
-		"status": "Status", 
+		"status": "Status",
 		"contact": "Contact",
 		"blog": "Blog",
 		"tools": "Tools",
@@ -21,7 +21,8 @@
 		"ip": "ip",
 		"hostname_ip": "Hostname / IP",
 		"title": "Minecraft Server Status - GGLVXD.NET",
-		"description": "Check Minecraft Java and Bedrock server status."
+		"description": "Check Minecraft Java and Bedrock server status.",
+		"offline": "offline"
 	},
 	"contact": {
 		"contact": "Contact",

@@ -7,7 +7,10 @@
 		"minecraft": "Minecraft 服务器状态",
 		"online": "在线",
 		"description": "欢迎来到我的作品集/项目网站",
-		"title": "GGLVXD.NET - 中文"
+		"title": "GGLVXD.NET - 中文",
+		"about": "音樂就是生活",
+		"age": "我今天{{days}}天",
+		"evangelion": "Evangelion 是 PEAK!!!!!111!!!!!"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft 服务器状态",

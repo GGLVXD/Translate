@@ -22,7 +22,10 @@
 		"minecraft": "Статус сервера Minecraft",
 		"online": "онлайн",
 		"description": "Добро пожаловать на сайт моего портфолио/проектов",
-		"title": "GGLVXD.NET - Русский"
+		"title": "GGLVXD.NET - Русский",
+		"about": "Музыка это жизнь",
+		"age": "Мне {{days}} дней",
+		"evangelion": "Евангелион - ЭТО ПИК!!!!!111!!!!!"
 	},
 	"contact": {
 		"contact": "Контакт",

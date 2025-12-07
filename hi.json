@@ -7,7 +7,10 @@
 		"minecraft": "Minecraft सर्वर स्थिति",
 		"online": "ऑनलाइन",
 		"description": "मेरे पोर्टफ़ोलियो/प्रोजेक्ट वेबसाइट पर आपका स्वागत है",
-		"title": "GGLVXD.NET - हिन्दी"
+		"title": "GGLVXD.NET - हिन्दी",
+		"about": "संगीत ही जीवन है",
+		"age": "मैं {{days}} दिन का हूँ",
+		"evangelion": "Evangelion है PEAK!!!!!111!!!!!"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft सर्वर स्थिति",

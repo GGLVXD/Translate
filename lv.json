@@ -7,7 +7,10 @@
 		"minecraft": "Minecraft servera statuss",
 		"online": "tiešsaistē",
 		"description": "Laipni lūgti manā portfolio/projekta tīmekļa vietnē",
-		"title": "GGLVXD.NET - Latviski"
+		"title": "GGLVXD.NET - Latviski",
+		"about": "Mūzika ir dzīve",
+		"age": "Es esmu {{days}} dienas vecs",
+		"evangelion": "Evangelion IR PEAK!!!!!111!!!!!"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft servera statuss",

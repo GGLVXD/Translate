@@ -12,7 +12,8 @@
 		"hostname_ip": "Имя хоста / IP",
 		"title": "Статус сервера Minecraft - GGLVXD.NET",
 		"description": "Проверьте статус серверов Minecraft Java и Bedrock.",
-		"offline": "офлайн"
+		"offline": "офлайн",
+		"server_icon": "значок сервера"
 	},
 	"homepage": {
 		"status": "Статус",

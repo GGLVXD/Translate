@@ -25,7 +25,8 @@
 		"hostname_ip": "Hostname / IP",
 		"title": "Minecraft Server Status - GGLVXD.NET",
 		"description": "Check Minecraft Java and Bedrock server status.",
-		"offline": "offline"
+		"offline": "offline",
+		"server_icon": "server icon"
 	},
 	"contact": {
 		"contact": "Contact",

@@ -25,7 +25,8 @@
 		"hostname_ip": "होस्टनाम / आईपी",
 		"title": "Minecraft सर्वर स्थिति - GGLVXD.NET",
 		"description": "Minecraft Java और Bedrock सर्वर की स्थिति जाँचें।",
-		"offline": "ऑफ़लाइन"
+		"offline": "ऑफ़लाइन",
+		"server_icon": "सर्वर आइकन"
 	},
 	"contact": {
 		"contact": "संपर्क",

@@ -25,7 +25,8 @@
 		"hostname_ip": "호스트명 / IP",
 		"title": "마인크래프트 서버 상태 - GGLVXD.NET",
 		"description": "마인크래프트 Java 및 Bedrock 서버 상태를 확인하세요.",
-		"offline": "오프라인"
+		"offline": "오프라인",
+		"server_icon": "서버 아이콘"
 	},
 	"contact": {
 		"contact": "연락처",

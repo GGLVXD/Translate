@@ -10,7 +10,8 @@
 		"title": "GGLVXD.NET - 한국어",
 		"about": "음악은 삶이다",
 		"age": "저는 {{days}}일 됐습니다",
-		"evangelion": "Evangelion ~이다 PEAK!!!!!111!!!!!"
+		"evangelion": "Evangelion ~이다 PEAK!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"minecraft": {
 		"minecraft_server_status": "마인크래프트 서버 상태",
@@ -27,6 +28,35 @@
 		"description": "마인크래프트 Java 및 Bedrock 서버 상태를 확인하세요.",
 		"offline": "오프라인",
 		"server_icon": "서버 아이콘"
+	},
+	"brawlstars": {
+		"title": "Brawl Stars 플레이어 통계 - GGLVXD.NET",
+		"title_player": "Brawl Stars {{name}} 통계 - GGLVXD.NET",
+		"description": "태그로 Brawl Stars 플레이어를 검색하고 통계를 확인하세요.",
+		"description_player": "트로피: {{trophies}}, 3v3 승리: {{wins3v3}}, 솔로 승리: {{solo}}, 듀오 승리: {{duo}}.",
+		"heading": "Brawl Stars 플레이어 통계",
+		"prompt": "플레이어 태그를 입력하여 상세 정보를 확인하세요.",
+		"label": "플레이어 태그",
+		"placeholder": "#P2J0Q2",
+		"search": "검색",
+		"no_data": "플레이어 데이터를 사용할 수 없습니다.",
+		"back": "검색으로 돌아가기",
+		"trophies": "트로피",
+		"highest": "최고",
+		"exp": "경험치",
+		"club": "클럽",
+		"victories_3v3": "3v3 승리",
+		"solo_victories": "솔로 승리",
+		"duo_victories": "듀오 승리",
+		"best_robo_rumble": "최고 Robo Rumble 시간",
+		"best_big_brawler": "최고 Big Brawler 시간",
+		"qualified_championship": "챔피언십 자격",
+		"yes": "예",
+		"no": "아니오",
+		"brawlers": "브롤러",
+		"trophies_lowercase": "트로피",
+		"unknown_player": "알 수 없는 플레이어",
+		"unknown": "알 수 없음"
 	},
 	"contact": {
 		"contact": "연락처",

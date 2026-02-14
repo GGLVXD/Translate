@@ -15,6 +15,35 @@
 		"offline": "офлайн",
 		"server_icon": "значок сервера"
 	},
+	"brawlstars": {
+		"title": "Статистика игрока Brawl Stars - GGLVXD.NET",
+		"title_player": "Статистика игрока Brawl Stars {{name}} - GGLVXD.NET",
+		"description": "Найдите игрока Brawl Stars по тегу и посмотрите его статистику.",
+		"description_player": "Трофеи: {{trophies}}, побед 3v3: {{wins3v3}}, соло побед: {{solo}}, дуэт побед: {{duo}}.",
+		"heading": "Статистика игрока Brawl Stars",
+		"prompt": "Введите тег игрока, чтобы увидеть подробности.",
+		"label": "Тег игрока",
+		"placeholder": "#P2J0Q2",
+		"search": "Поиск",
+		"no_data": "Данные игрока недоступны.",
+		"back": "Вернуться к поиску",
+		"trophies": "Трофеи",
+		"highest": "Максимум",
+		"exp": "Опыт",
+		"club": "Клуб",
+		"victories_3v3": "побед 3v3",
+		"solo_victories": "Соло побед",
+		"duo_victories": "Дуэт побед",
+		"best_robo_rumble": "Лучшее время в Robo Rumble",
+		"best_big_brawler": "Лучшее время как Big Brawler",
+		"qualified_championship": "Квалифицирован с чемпионата",
+		"yes": "Да",
+		"no": "Нет",
+		"brawlers": "Бойцы",
+		"trophies_lowercase": "трофеев",
+		"unknown_player": "Неизвестный игрок",
+		"unknown": "Неизвестный"
+	},
 	"homepage": {
 		"status": "Статус",
 		"contact": "Контакт",
@@ -26,7 +55,8 @@
 		"title": "GGLVXD.NET - Русский",
 		"about": "Музыка это жизнь",
 		"age": "Мне {{days}} дней",
-		"evangelion": "Евангелион - ЭТО ПИК!!!!!111!!!!!"
+		"evangelion": "Евангелион - ЭТО ПИК!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"contact": {
 		"contact": "Контакт",

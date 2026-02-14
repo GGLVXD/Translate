@@ -10,7 +10,8 @@
 		"title": "GGLVXD.NET - Latviski",
 		"about": "Mūzika ir dzīve",
 		"age": "Es esmu {{days}} dienas vecs",
-		"evangelion": "Evangelion IR PEAK!!!!!111!!!!!"
+		"evangelion": "Evangelion IR PEAK!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft servera statuss",
@@ -27,6 +28,35 @@
 		"description": "Pārbaudiet Minecraft Java un Bedrock servera statusu.",
 		"offline": "bezsaistē",
 		"server_icon": "servera ikona"
+	},
+	"brawlstars": {
+		"title": "Brawl Stars spēlētāju statistika — GGLVXD.NET",
+		"title_player": "Brawl Stars {{name}} statistika — GGLVXD.NET",
+		"description": "Izmantojiet spēlētāja tagu, lai meklētu Brawl Stars spēlētāju un apskatītu viņa statistiku.",
+		"description_player": "Trofejas: {{trophies}}, 3v3 uzvaras: {{wins3v3}}, Solo uzvaras: {{solo}}, Duo uzvaras: {{duo}}.",
+		"heading": "Brawl Stars spēlētāju statistika",
+		"prompt": "Ievadiet spēlētāja tagu, lai apskatītu informaciju.",
+		"label": "Spēlētāja tags",
+		"placeholder": "#P2J0Q2",
+		"search": "Meklēt",
+		"no_data": "Spēlētāja dati nav pieejami.",
+		"back": "Atpakaļ uz meklēšanu",
+		"trophies": "Trofejas",
+		"highest": "Augstākais",
+		"exp": "Pieredze",
+		"club": "Klubs",
+		"victories_3v3": "3v3 uzvaras",
+		"solo_victories": "Solo uzvaras",
+		"duo_victories": "Duo uzvaras",
+		"best_robo_rumble": "Labākais Robo Rumble laiks",
+		"best_big_brawler": "Labākais laiks kā Big Brawler",
+		"qualified_championship": "Kvalificējies no čempionāta",
+		"yes": "Jā",
+		"no": "Nē",
+		"brawlers": "Cīnītāji",
+		"trophies_lowercase": "trofejas",
+		"unknown_player": "Nezināms spēlētājs",
+		"unknown": "Nezināms"
 	},
 	"contact": {
 		"contact": "Kontaktinformācija",

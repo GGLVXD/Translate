@@ -10,7 +10,8 @@
 		"title": "GGLVXD.NET - हिन्दी",
 		"about": "संगीत ही जीवन है",
 		"age": "मैं {{days}} दिन का हूँ",
-		"evangelion": "Evangelion है PEAK!!!!!111!!!!!"
+		"evangelion": "Evangelion है PEAK!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft सर्वर स्थिति",
@@ -27,6 +28,35 @@
 		"description": "Minecraft Java और Bedrock सर्वर की स्थिति जाँचें।",
 		"offline": "ऑफ़लाइन",
 		"server_icon": "सर्वर आइकन"
+	},
+	"brawlstars": {
+		"title": "Brawl Stars प्लेयर स्टैट्स - GGLVXD.NET",
+		"title_player": "Brawl Stars {{name}} के आंकड़े - GGLVXD.NET",
+		"description": "टैग के आधार पर ब्रॉल स्टार्स प्लेयर को खोजें और उनके स्टैट्स देखें।",
+		"description_player": "ट्रॉफी: {{trophies}}, 3v3 जीत: {{wins3v3}}, सोलो जीत: {{solo}}, ड्यूओ जीत: {{duo}}.",
+		"heading": "ब्रॉल स्टार्स प्लेयर के आँकड़े",
+		"prompt": "डिटेल्स देखने के लिए प्लेयर टैग डालें।",
+		"label": "खिलाड़ी टैग",
+		"placeholder": "#P2J0Q2",
+		"search": "खोज",
+		"no_data": "खिलाड़ी का डेटा उपलब्ध नहीं है।",
+		"back": "खोज पर वापस जाएं",
+		"trophies": "ट्रॉफी",
+		"highest": "सर्वाधिक",
+		"exp": "अनुभव",
+		"club": "क्लब",
+		"victories_3v3": "3v3 जीत",
+		"solo_victories": "सोलो जीत",
+		"duo_victories": "ड्यूओ जीत",
+		"best_robo_rumble": "सर्वश्रेष्ठ Robo Rumble समय",
+		"best_big_brawler": "Big Brawler के रूप में सर्वश्रेष्ठ समय",
+		"qualified_championship": "चैम्पियनशिप से योग्य",
+		"yes": "हाँ",
+		"no": "नहीं",
+		"brawlers": "ब्रॉलर्स",
+		"trophies_lowercase": "ट्रॉफी",
+		"unknown_player": "अज्ञात खिलाड़ी",
+		"unknown": "अज्ञात"
 	},
 	"contact": {
 		"contact": "संपर्क",

@@ -10,7 +10,8 @@
 		"title": "GGLVXD.NET - Español",
 		"about": "La música es vida",
 		"age": "Tengo {{days}} días",
-		"evangelion": "Evangelion ES PEAK!!!!!111!!!!!"
+		"evangelion": "Evangelion ES PEAK!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Estado del servidor de Minecraft",
@@ -27,6 +28,35 @@
 		"description": "Comprueba el estado del servidor Minecraft Java y Bedrock.",
 		"offline": "desconectado",
 		"server_icon": "icono del servidor"
+	},
+	"brawlstars": {
+		"title": "Estadisticas de jugador de Brawl Stars - GGLVXD.NET",
+		"title_player": "Estadisticas de {{name}} en Brawl Stars - GGLVXD.NET",
+		"description": "Busca un jugador de Brawl Stars por etiqueta y mira sus estadisticas.",
+		"description_player": "Trofeos: {{trophies}}, victorias 3v3: {{wins3v3}}, victorias en solitario: {{solo}}, victorias en duo: {{duo}}.",
+		"heading": "Estadisticas del jugador de Brawl Stars",
+		"prompt": "Introduce una etiqueta de jugador para ver detalles.",
+		"label": "Etiqueta del jugador",
+		"placeholder": "#P2J0Q2",
+		"search": "Buscar",
+		"no_data": "No hay datos del jugador disponibles.",
+		"back": "Volver a la búsqueda",
+		"trophies": "Trofeos",
+		"highest": "Máximo",
+		"exp": "Exp",
+		"club": "Club",
+		"victories_3v3": "victorias 3v3",
+		"solo_victories": "Victorias en solitario",
+		"duo_victories": "Victorias en dúo",
+		"best_robo_rumble": "Mejor tiempo en Robo Rumble",
+		"best_big_brawler": "Mejor tiempo como Big Brawler",
+		"qualified_championship": "Calificado del campeonato",
+		"yes": "Sí",
+		"no": "No",
+		"brawlers": "Brawlers",
+		"trophies_lowercase": "trofeos",
+		"unknown_player": "Jugador desconocido",
+		"unknown": "Desconocido"
 	},
 	"contact": {
 		"contact": "Contacto",

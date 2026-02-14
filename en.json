@@ -10,7 +10,8 @@
 		"title": "GGLVXD.NET",
 		"about": "Music is life",
 		"age": "I am {{days}} days old",
-		"evangelion": "Evangelion IS PEAK!!!!!111!!!!!"
+		"evangelion": "Evangelion IS PEAK!!!!!111!!!!!",
+		"brawlstars": "Brawl Stars"
 	},
 	"minecraft": {
 		"minecraft_server_status": "Minecraft server status",
@@ -27,6 +28,35 @@
 		"description": "Check Minecraft Java and Bedrock server status.",
 		"offline": "offline",
 		"server_icon": "server icon"
+	},
+	"brawlstars": {
+		"title": "Brawl Stars Player Stats - GGLVXD.NET",
+		"title_player": "Brawl Stars {{name}} Stats - GGLVXD.NET",
+		"description": "Look up a Brawl Stars player by tag and view their stats.",
+		"description_player": "Trophies: {{trophies}}, 3v3 wins: {{wins3v3}}, Solo wins: {{solo}}, Duo wins: {{duo}}.",
+		"heading": "Brawl Stars Player stats",
+		"prompt": "Enter a player tag to view details.",
+		"label": "Player tag",
+		"placeholder": "#P2J0Q2",
+		"search": "Search",
+		"no_data": "No player data available.",
+		"back": "Back to search",
+		"trophies": "Trophies",
+		"highest": "Highest",
+		"exp": "Exp",
+		"club": "Club",
+		"victories_3v3": "3v3 wins",
+		"solo_victories": "Solo victories",
+		"duo_victories": "Duo victories",
+		"best_robo_rumble": "Best Robo Rumble time",
+		"best_big_brawler": "Best time as Big Brawler",
+		"qualified_championship": "Qualified from championship",
+		"yes": "Yes",
+		"no": "No",
+		"brawlers": "Brawlers",
+		"trophies_lowercase": "trophies",
+		"unknown_player": "Unknown Player",
+		"unknown": "Unknown"
 	},
 	"contact": {
 		"contact": "Contact",
